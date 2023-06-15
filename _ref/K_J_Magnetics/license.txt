@@ -1,0 +1,36 @@
+
+https://www.kjmagnetics.com/proddetail.asp?prod=BYC33
+
+Files here are approximations based on reasonable interpretation of the most basic specifications from such websites as 'https://www.kjmagnetics.com/' . Only the most obviously essential dimensions (eg. position but not diameter of mounting holes) may specifically match upstream typical.
+
+Do NOT expect CAD interference (of assemblies) tests to pass.
+
+
+
+...
+In the absense of any license explictly stated here or any prior license, files under this directory are then intended to be copyrighted by mirage335 under GPLv3 license.
+
+
+-
+Copyright (C) 2023  mirage335
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software Foundation,
+Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
+
+All files in this folder and subfolders, unless explicitly stated otherwise in this file or copyrighted by other authors, are copyrighted by mirage335 as described above.
+-
+
+
+
+
