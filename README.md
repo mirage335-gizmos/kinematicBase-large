@@ -16,6 +16,10 @@ Large kinematic bases. For high precision, existing Thor Labs kinematic bases su
 
 Continious spherical metal to surface metal direct contact is possible. Retainer is open at both ends, so can be made of plastic. Metal plate design included as 1/4 inch (or other diameter) shim if desired.
 
+No plastic sockets can be used for high-precision cases. Only flat metal plates, metal balls, and plastic retainers around the metal balls, and one single Thor Labs kinematic base, are appropriate.
+
+The single Thor Labs kinematic base should be the sole reference for the the X/Y position. All other points of contact solely maintain Z flatness along the X/Y plane.
+
 
 # Distribution
 
