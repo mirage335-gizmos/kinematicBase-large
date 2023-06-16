@@ -9,6 +9,12 @@ Large kinematic bases. For high precision, existing Thor Labs kinematic bases su
 
 # Usage
 
+## High Precision
+
+Continious spherical metal to surface metal direct contact is possible. Retainer is open at both ends, so can be made of plastic. Metal plate design included as 1/4 inch (or other diameter) shim if desired.
+
+<img src="/Render.png" width=600>
+
 
 # Distribution
 
