@@ -9,6 +9,8 @@ Large kinematic bases. For high precision, existing Thor Labs kinematic bases su
 
 <img src="/Render.png" width=600>
 
+<img src="/Render-mixed.png" width=600>
+
 
 # Usage
 
