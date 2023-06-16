@@ -7,13 +7,14 @@ See license.txt for projectName license conditions.
 Large kinematic bases. For high precision, existing Thor Labs kinematic bases surrounded by spherical point contact at similar height are expected best. For low precision low wear (eg. Human Interface Device panels), 3d printed plastic, or 3d printed plastic with interference fit tool steel rods (eg. drill bits), may suffice.
 
 
+<img src="/Render.png" width=600>
+
+
 # Usage
 
 ## High Precision
 
 Continious spherical metal to surface metal direct contact is possible. Retainer is open at both ends, so can be made of plastic. Metal plate design included as 1/4 inch (or other diameter) shim if desired.
-
-<img src="/Render.png" width=600>
 
 
 # Distribution
